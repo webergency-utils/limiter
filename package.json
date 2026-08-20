@@ -1,6 +1,6 @@
 {
   "name": "@webergency-utils/limiter",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "type": "module",
   "description": "Unopinionated promise limiters: concurrency, rate, interval, token bucket, capacity, debounce",
   "author": "radixxko",
